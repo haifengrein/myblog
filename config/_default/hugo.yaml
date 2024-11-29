@@ -2,8 +2,10 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://haifengrein.github.io/"
-title: myblog
+baseURL: "https://haifenghou.com/"
+title: Blog
+canonifyURLs: true
+relativeURLs: true
 
 ############################
 ## MISC
